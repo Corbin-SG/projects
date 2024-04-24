@@ -1,5 +1,5 @@
 body {
-    background-color: #E9F4EA;
+    background-color: #d0d3df;
   }
   
   h1 {
@@ -25,7 +25,7 @@ body {
   }
   
   #title{
-      background-color: #BD4D56;
+      background-color: #6CCFF6;
       width: auto;
       font-family: courier, monospace;
       letter-spacing: 5px;
@@ -34,9 +34,9 @@ body {
   }
   
   .btn-group button{
-      background-color:#738F9E;
-      border: 1px solid #212634;
-      color:#212634;
+      background-color:#64c1e5;
+      border: 1px solid #001011;
+      color:#001011;
       padding: 10px 24px;
       cursor: pointer;
       float: left;
@@ -58,8 +58,8 @@ body {
   }
   
   .btn-group button:hover {
-      background-color:#BD4D56;
-      color:#E9F4EA;
+      background-color:#98C300;
+      color:#001011;
       font-family: 'Courier New', Courier, monospace;
       font-weight: bold;
   }
